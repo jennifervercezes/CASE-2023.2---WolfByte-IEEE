@@ -1,21 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
-public class Player : PlayerChars
+public class thisProjectile : Projectile
 {
+    public PlayerChars thisProjectileFont;
 
     // Start is called before the first frame update
     void Start()
     {
-        //falta programar tomar dano de inimigos, 
-        //os projéteis serão quem dará dano se não houver classes diferentes de sapo a curta distância
+        dmgP = thisProjectileFont.dmg;
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        //criar e mover num velocidade x os projéteis a cada n segundos
     }
 }
