@@ -9,6 +9,7 @@ public class PlayerChars : MonoBehaviour
     public Sprite sprt;
     public Animator anim;
     public Slot iniSlot;
+    public BoxCollider2D coll;
 
     public GameObject thisOne;
     public Projectile projectile;
@@ -27,7 +28,15 @@ public class EnemyChars : PlayerChars
 public class Projectile 
 {
     public Sprite sprtP;
+    public Collider collP;
     public int dmgP, velocityP; // == dmg no player char
+}
+
+public class Spawn
+{
+    public int minNum, maxNum, timeSpan, numSpawnerSlot;
+    public Slot slotSpawn;
+    public Transform transfSpawned;
 }
 
 public class Candies

@@ -29,4 +29,10 @@ public class ClickPlay : MonoBehaviour
         }
         
     }
+
+    public void Exit() 
+    {
+        UnityEditor.EditorApplication.ExitPlaymode(); // mantemos esse enquanto não pretendemos buildar o jogo final :)
+        //Application.Quit();
+    }
 }
