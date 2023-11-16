@@ -13,7 +13,8 @@ public class TurretSquare : MonoBehaviour
     {
         startColor = sr.color;
     }
-    void OnMouseEnter()//mudar pra deixar as torres piscando em vez de elas sumirem(elas somem por algum motivo que eu nao sei)
+    void OnMouseEnter()//
+                       //mudar pra deixar as torres piscando em vez de elas sumirem(elas somem por algum motivo que eu nao sei)
     {
         sr.color = hoverColor;
     }

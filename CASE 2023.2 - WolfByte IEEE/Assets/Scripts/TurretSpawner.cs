@@ -6,7 +6,7 @@ public class TurretSpawner : MonoBehaviour
 {
     public static TurretSpawner main;
     public  GameObject[] turretType;
-    public int turretIndex = 0;
+    public int turretIndex = -1;
 
     void Awake()
     {
