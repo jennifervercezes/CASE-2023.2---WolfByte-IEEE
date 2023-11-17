@@ -27,12 +27,14 @@ public class Economia : MonoBehaviour
         if (DinheiroSuficiente(valor))
         {
             dinheiro -= valor;
+            dinheiroInicial = dinheiro;
+            UpdateUI();
             return true;
         }else
             return false;
     }
     //checar se tem dinheiro suficiente
-    bool DinheiroSuficiente(int valor)
+    public bool DinheiroSuficiente(int valor)
     {
         //checa se o valor é menor ou igual ao dinheiro
         if (valor <= dinheiro)

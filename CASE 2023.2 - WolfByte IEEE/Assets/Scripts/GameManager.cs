@@ -9,10 +9,12 @@ public class GameManager : MonoBehaviour
     {
         Instance = this;
     }
+    public Economia economia;
     
     void Start()
     {
         GetComponent<Economia>().Init();    
+        GetComponent<Caldeirao>().Init();
     }
 
 

@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 81069327e80e8424d8e079ed8d2ed96f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_0"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 363
+        width: 111
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f8ab525c5fdaa4f804c0a4fcf48f85
+      internalID: 1062806270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_1"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 363
+        width: 111
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828d91deeaa005c448dc979f519abf76
+      internalID: -291404809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_2"
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 363
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773c5376f44fcc04a8a79d366ebe852c
+      internalID: 550157440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_3"
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 363
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da670c9eb8eb5c4ea88881d9743df83
+      internalID: 1268899046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_4"
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 363
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67870765d8fbc9843946d67bec54a0b8
+      internalID: -300745926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_5"
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 363
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62937a2f86be704f96a1019b381732c
+      internalID: 1557715091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_7"
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 363
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbcc2e1bbb58654b9a9ca3577bb57fd
+      internalID: -1460100314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_9"
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 363
+        width: 114
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81608d4514143a41b2e20275166586f
+      internalID: 2099007628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_11"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 183
+        width: 114
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec43e5aad75b0f44808424d0649ab79
+      internalID: 562514937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_12"
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 183
+        width: 123
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdc9a3a391c44149865fcb9ff4b5e62
+      internalID: 1717050626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_13"
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 183
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e0ff3ed77bbd34a98a1fa02203c3a3
+      internalID: -1278650622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_16"
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 183
+        width: 132
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e673f1e4f2bf9ac44a0b4ce84f8b60eb
+      internalID: 345030713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_17"
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 183
+        width: 120
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed345ed68906d1a46a0c2c6981e39ef6
+      internalID: -680954760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_18"
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 183
+        width: 129
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e78dcd13c69f8c458cc88c354312bac
+      internalID: 2001354294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_20"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 183
+        width: 114
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9187b8aecab27ea478594f4a1b80ba82
+      internalID: 1644422555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_22"
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 183
+        width: 132
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8efa746fd1acd34cb19f5f1b5a2d7d5
+      internalID: 468602059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_29"
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 3
+        width: 111
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2f2d27ce9f7084ab3f1e70712e1781
+      internalID: 170256256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_30"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 129
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70e3ff8d693622488cb4f0cac87ab23
+      internalID: -1652958063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_31"
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3
+        width: 117
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a4b30aacd89fd4a9586ea03bd01aed
+      internalID: -1769975398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "caldeiro\xF5es_32"
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 3
+        width: 111
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eea6c49cebc2d0498c6edc56e8f0ab0
+      internalID: 1510947387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "caldeiro\xF5es_4": -300745926
+      "caldeiro\xF5es_7": -1460100314
+      "caldeiro\xF5es_13": -1278650622
+      "caldeiro\xF5es_6": 15673873
+      "caldeiro\xF5es_17": -680954760
+      "caldeiro\xF5es_0": 1062806270
+      "caldeiro\xF5es_26": 318870064
+      "caldeiro\xF5es_27": 197798043
+      "caldeiro\xF5es_2": 550157440
+      "caldeiro\xF5es_19": -2073452601
+      "caldeiro\xF5es_20": 1644422555
+      "caldeiro\xF5es_21": -1341828630
+      "caldeiro\xF5es_16": 345030713
+      "caldeiro\xF5es_31": -1769975398
+      "caldeiro\xF5es_28": 1873392332
+      "caldeiro\xF5es_10": 1946010071
+      "caldeiro\xF5es_32": 1510947387
+      "caldeiro\xF5es_8": -976804748
+      "caldeiro\xF5es_24": -1477397071
+      "caldeiro\xF5es_14": 1717339856
+      "caldeiro\xF5es_5": 1557715091
+      "caldeiro\xF5es_9": 2099007628
+      "caldeiro\xF5es_22": 468602059
+      "caldeiro\xF5es_30": -1652958063
+      "caldeiro\xF5es_18": 2001354294
+      "caldeiro\xF5es_29": 170256256
+      "caldeiro\xF5es_11": 562514937
+      "caldeiro\xF5es_3": 1268899046
+      "caldeiro\xF5es_15": -1681135929
+      "caldeiro\xF5es_23": 602281089
+      "caldeiro\xF5es_25": -699929398
+      "caldeiro\xF5es_1": -291404809
+      "caldeiro\xF5es_12": 1717050626
+      "caldeiro\xF5es_33": 1012599341
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

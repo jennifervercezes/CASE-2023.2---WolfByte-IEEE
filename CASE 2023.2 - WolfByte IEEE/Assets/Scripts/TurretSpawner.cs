@@ -6,7 +6,8 @@ public class TurretSpawner : MonoBehaviour
 {
     public static TurretSpawner main;
     public  GameObject[] turretType;
-    public int turretIndex = -1;
+    public int turretIndex = 4;
+    public int custoTorre;
 
     void Awake()
     {
@@ -15,7 +16,16 @@ public class TurretSpawner : MonoBehaviour
 
     public GameObject GetTurret()
     {
-        return turretType[turretIndex];
+        custoTorre = turretType[turretIndex].GetComponent<Caldeirao>().custo;
+        if (GameManager.Instance.economia.Use(custoTorre))
+        {
+            return turretType[turretIndex];
+            
+        }else
+            return turretType[4];
+           
+        
+
     }
 
 
